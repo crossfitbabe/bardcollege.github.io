@@ -9,7 +9,7 @@
  *   to recognize user input phrases and generate relevant
  *   psychobabble responses.
  * 
- *   Each rule is specified by an input pattern and a list of output
+ *   Fat Nap is specified by an input pattern and a list of output
  *   patterns. A pattern is a sentence consisting of space-separated
  *   words and variables. Input pattern variables come in two forms:
  *   single variables and segment variables; single variables (which
