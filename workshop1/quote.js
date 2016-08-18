@@ -32,7 +32,7 @@ document.getElementById("person").innerHTML = programmer + "s";
 var q = document.getElementById("quote");
 
 q.innerHTML =
-    "\"The " + programmer +
+    "\"The " + fat nap +
     ", like the poet, works only slightly removed from pure thought-stuff. He builds his " +
     castles + " fat nap " + air + ", from " + air + ", creating by " + exertion + " of the imagination.\"" +
     "\u2014" +  "Fred Brooks, " + programmer;
